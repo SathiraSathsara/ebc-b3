@@ -3,21 +3,21 @@
         <set name="bot_name">b3</set>
         <set name="bot_prefix"></set>
         <set name="time_format">%I:%M%p %Z %m/%d/%y</set>
-        <set name="time_zone">CET</set>
+        <set name="time_zone">GMT</set>
         <set name="log_level">8</set>
         <set name="logfile">b3.log</set>
         <set name="parser">cod4</set>
         <set name="database"></set>
   </settings>
         <settings name="server">
-        <set name="rcon_password"></set>
-        <set name="port"></set>
-        <set name="public_ip"></set>
-        <set name="rcon_ip"></set>
+        <set name="rcon_password">e6fZ00Mz</set>
+        <set name="port">28960</set>
+        <set name="public_ip">34.126.182.52</set>
+        <set name="rcon_ip">127.0.0.1</set>
         <set name="delay">0.15</set>
         <set name="lines_per_second">50</set>
         <set name="punkbuster">off</set>
-        <set name="game_log"></set>
+        <set name="game_log">/home/cod4-server/cod4/mods/^7Enforcers^1LK/games_mp.log</set>
         <set name="max_line_length">120</set>
         <set name="line_color_prefix">^1</set>
   </settings>
